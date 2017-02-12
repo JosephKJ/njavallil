@@ -274,14 +274,14 @@ font-family: 'Tangerine', arial, serif;
                     <a href="pages/letterDec.html" style="color:#045b7e; padding-left:15px;">&nbsp; <span style="font-size:14px;">Letter posted in December</span></a></span>
                     
                 </div>-->
-                         
+                   <!--      
                 	<h3 align="center" style="font-family: 'Cabin Sketch', arial, serif; font-size:20px; padding-left:2px;">News Letter - April 2015</h3>
                    <a href="pages/colorNewsletter.html"> <div style="position:relative; padding-top:5px;"> <span style="font-family: 'Varela', arial, serif; color:#000; text-align:center; font-size:13px;  text-align:center; color:blue;" >
                     Click here to read through the April 2015 News Letter </span><br /><br />
                 </div></a>
-            
+            -->
                  <div style="position:relative; padding-top:5px;">
-                	<h3 align="center" style="font-family: 'Cabin Sketch', arial, serif; font-size:18px; padding-left:2px;">18th Kudumbayogam-2015</h3>
+                	<h3 align="center" style="font-family: 'Cabin Sketch', arial, serif; font-size:18px; padding-left:2px;">20th Kudumbayogam-2017</h3>
                     <span style="font-family: 'Varela', arial, serif; font-size:13px; text-align:justify;" >
                     Browse through the 100+ photos taken during the event at the <a href="pages/photogallery.html">Photogallery</a>.
                 </div>
@@ -295,12 +295,14 @@ font-family: 'Tangerine', arial, serif;
            			Link:<a href="pages/supplement.html" style="color:#045b7e;">&nbsp; <span style="font-size:12px;">Click here to view the supplement</span></a></span>
                    
                 </div>
+				<div style="position:relative; padding-top:102px;">
                 <br />	<hr style="color: #045b7e;width:220px;"/>
                 <div>
                 <span style="position:relative; font-style:italic; font-size:130%;">Join us at:</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 				<span ><a target="_blank" href="http://www.facebook.com/home.php?sk=group_211051132268320&ap=1"><img width="45px" height="45px" src="images/facebook.png" /></a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-				<span ><a target="_blank" href="http://www.orkut.co.in/Main#Community?cmm=48062814"><img width="45px" height="45px" src="images/orkut.png" /></a></span>
+				<!--<span ><a target="_blank" href="http://www.orkut.co.in/Main#Community?cmm=48062814"><img width="45px" height="45px" src="images/orkut.png" /></a></span>-->
                 </div>
+				</div>
                 
         </div>
         <!--<div style="width:10%; background-image:url(images/notice2.png); background-repeat:repeat-y; position:relative; float:left; min-height:300px;  ">
