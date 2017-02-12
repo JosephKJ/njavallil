@@ -1,0 +1,132 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Njavallil,kudumbam">
+<meta name="description" content="Add stuff.">
+<link rel="icon" type="image/png" href="../images/k.png" />
+<title>Administrator</title>
+<link rel="stylesheet" href="../styles/style.css" type="text/css" media="screen"/>
+<link href='http://fonts.googleapis.com/css?family=Redressed&v1' rel='stylesheet' type='text/css'>
+<style>
+
+
+	.tet{
+		font-family:Arial, Helvetica, sans-serif;
+		word-spacing:2px;
+		color:black; 
+		text-align: justify; 
+		padding:10px 15px 10px 15px;
+		font-size:120%;
+		
+	}
+	.tit{
+	font-family: 'Redressed', arial, serif;
+	font-size:250%;
+	text-align:center;
+	padding-top:20px;
+	}
+	.navb
+	{
+	position:relative; bottom:6px;
+	}
+	
+	.navstl
+	{
+	
+	}
+	.navst1:hover
+	{
+		background-image:url('../images/navbg.png');
+		background-repeat:repeat-x;
+		cursor:pointer;
+	}
+
+}
+</style>
+</head>
+
+<body>
+	<div id="container" >
+    <div id="header" >
+      <div id="logo">
+      <a href="http://www.njavallil.com/"><img src="../images/logo.png" alt="Njavallil Kudumbayogam"></a>
+      </div>
+    
+      <div id="socialicons">
+       <div style="text-align:center; padding-top:5px; font-size:36px; color:#FFF;">Njavallil Family</div>
+      </div>
+    
+    
+      <div class="menu-bar">
+          <ul>
+            <li><a href="../index.php" title="Home">Home</a></li>
+            <li><a href="#" title="About Us">About Us</a></li>
+            <li><a href="photogallery.html" title="Photo Gallery">Photo Gallery</a> </li>
+            <li><a href="committee.html" title="Committee Members">Committee Members</a></li>
+            <li><a href="contactus.php" title="Contact Us">Contact Us</a></li>
+          </ul>
+      </div>
+      <div class="header-bottom">
+     	<span style="font-size:14px; letter-spacing:1px ">
+      	<span style="position:relative; bottom:6px;font-weight:bold;color:black;">Navigation bar: </span>	
+      	<a href="../index.php" style="color:black;"><span class="navst1"><span class="navb">Home </span>
+      	<span><img src="../images/arrow.png" /></span></span></a>
+      	<a href="#" style="color:black;"><span class="navst1"><span class="navb">Administrator Login </span>
+      	</span></a>
+		</span>
+
+      </div>
+    </div>
+    
+	</div>
+    <div style="background-image:url(../images/bg.png); background-repeat:repeat;">
+	 	<div align="center">
+		 	<div style="background-image:url('../images/bg_fading.png');background-repeat:repeat-y; max-width:1000px; min-height:90px; ">
+            <!-- begin site -->
+			 	<div class="tit"> Administrator Login </div>
+			 	<div style="min-height:400px;" >
+                	<div style="padding-top:125px;" > 
+			 		<form action="loggedin.php" method="post">
+                    	<input name="pass"  type="password" />
+                        <input value="Login" type="submit" />
+                    </form>
+                    <br />
+                    <?php if( $_GET["token"]==0)
+								echo("Login Failed"); 
+					?>
+                    
+                    </div>
+				</div>
+		 	</div>
+            <!-- end site -->
+		<!-- Footer starts -->
+		<div style=" text-align:center; color:white; background-image:url('../images/bottom.png'); background-repeat:repeat-x;">
+		<br/>
+		<a style="color:white;" href="../index.php">Home</a>  |  
+		<a style="color:white;" href="aboutus.html">About Us</a>  |  
+		<a style="color:white;" href="photogallery.html">Photo Gallery</a>  |  
+		<a style="color:white;" href="../phpBB3/index.php">Forum</a>  |  
+		<a target="_blank" style="color:white;" href="http://www.mediateam.in/Familytree/index.php">Family Tree</a>  |  
+		<a style="color:white;" href="addressbook.php">Address Book</a>  |  
+		<a style="color:white;" href="branches.html">Branches</a>  |  
+		<a style="color:white;" href="downloads.html">Downloads</a>  |  
+		<a style="color:white;" href="committee.html">Committee Members</a>  |  
+		<a style="color:white;" href="noticeboard.html">Notice Board</a>  |  
+		<a style="color:white;" href="contactus.php">Contact Us</a>
+		<br/><br/>
+		This site is best viewed on Mozilla Firefox or Google Chrome at 1366X768 resolution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    |    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		
+        Site maintained by <a style="color:white" href="http://www.mediateam.in/">Media Team Solutions (India) Pvt Ltd</a>. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   |    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        
+		Site designed by <a style="color:white" href="http://www.facebook.com/profile.php?id=783715135">Joseph K J</a>, Koonthanam, Karoor
+		
+		</div>
+		<!-- Footer ends -->
+		 	
+	 	</div>
+
+	</div>
+</body>
+</html>

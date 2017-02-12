@@ -1,0 +1,33 @@
+<div style=" padding-top:16px; min-height:110px; background-image:url(images/bottline.png); background-repeat:repeat-x; min-width:1345px;">
+    <a style="color:#045b7e;" href="pages/photogallery.html">
+    <div  class="tile">
+    	<span style="padding-left:10px;" ><img src="images/tile/photo.png" /></span>
+    	<span style="padding-left:4px;" class="titlewriting">Photo Gallery</span>
+    </div></a>
+    <a style="color:#045b7e;" href="pages/branches.html">
+    <div  class="tile">
+    	<img src="images/tile/branch.png" />
+    	<span class="titlewriting" style=" padding-left:2px;">Branches</span>
+    </div></a>
+	<a style="color:#045b7e;" href="phpBB3/index.php"><div  class="tile">
+		<img src="images/tile/forum.png" />
+    	<span class="titlewriting" style=" padding-left:20px;">Forum</span>	
+    </div></a>
+    <a style="color:#045b7e;" href="pages/addressbook.php">
+	<div  class="tile">
+    	<img src="images/tile/addressbook.png" />
+    	<span class="titlewriting" style=" padding-left:5px;">News & Events</span>
+    </div></a>
+    
+    <a style="color:#045b7e;" href="pages/familytree.html">
+	<div  class="tile">
+    	<img src="images/tile/tree.png" />
+    	<span class="titlewriting" style=" padding-left:5px;">Family Tree</span>
+    </div></a>
+    
+    <a style="color:#045b7e;" href="pages/downloads.html">
+    	<div  class="tile">
+    	<img src="images/tile/download.png" />
+    	<span class="titlewriting" style=" padding-left:20px;">Downloads</span>
+    </div></a>
+</div>

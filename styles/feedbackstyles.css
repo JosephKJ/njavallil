@@ -1,0 +1,38 @@
+*{
+	/* Universal reset: */
+	margin:0;
+	padding:0;
+}
+
+body{
+	/* Setting the default text color, size, page background and a font stack: */
+	font-size:0.825em;
+	color:#fcfcfc;
+	background-color:#355664;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+
+/* Only used for the demo page at tutorialzine: */
+
+#backToTheTut{
+	background-color:#F5F5F5;
+	border:1px solid white;
+	height:90px;
+	
+	padding:0px 0px 10px 00px;
+	position:fixed;
+	top:250px;
+	width:200px;
+	z-index:200;
+	
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	border-radius:4px;
+}
+
+
+/*#backToTheTut img{
+	float:left;
+	margin-right:15px;
+}*/

@@ -1,0 +1,21 @@
+<div style=" text-align:center; color:white; background-image:url('images/bottom.png'); background-repeat:repeat-x;">
+		<br/>
+		<a style="color:white;" href="index.php">Home</a>  |  
+		<a style="color:white;" href="pages/aboutus.html">About Us</a>  |  
+		<a style="color:white;" href="pages/photogallery.html">Photo Gallery</a>  |  
+		<a style="color:white;" href="phpBB3/index.php">Forum</a>  |  
+		<a style="color:white;" href="pages/familytree.html">Family Tree</a>  |  
+		<a style="color:white;" href="pages/addressbook.php">News & Events</a>  |  
+		<a style="color:white;" href="pages/branches.html">Branches</a>  |  
+		<a style="color:white;" href="pages/downloads.html">Downloads</a>  |  
+		<a style="color:white;" href="pages/committee.html">Committee Members</a>  |  
+		<a style="color:white;" href="pages/noticeboard.html">Notice Board</a>  |  
+		<a style="color:white;" href="pages/contactus.php">Contact Us</a>
+		<br/><br/>
+		This site is best viewed on Mozilla Firefox or Google Chrome at 1366X768 resolution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    |    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		
+        Site maintained by <a style="color:white" href="http://www.mediateam.in/">Media Team Solutions (India) Pvt Ltd</a>. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   |    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        
+		Site designed by <a style="color:white" href="http://www.facebook.com/profile.php?id=783715135">Joseph K J</a>, Koonthanam, Karoor
+		
+</div>

@@ -1,0 +1,148 @@
+
+[31-Oct-2014 03:38:57 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[31-Oct-2014 13:51:45 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[31-Oct-2014 23:15:02 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[01-Nov-2014 02:08:04 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[01-Nov-2014 02:08:07 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[01-Nov-2014 11:06:57 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[02-Nov-2014 15:08:43 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[03-Nov-2014 09:57:56 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[03-Nov-2014 16:00:52 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[03-Nov-2014 16:00:54 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[03-Nov-2014 16:02:27 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[03-Nov-2014 16:08:40 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[04-Nov-2014 04:12:44 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[04-Nov-2014 04:59:43 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[04-Nov-2014 10:34:26 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[04-Nov-2014 10:45:06 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[04-Nov-2014 21:15:07 Asia/Kolkata] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/njavall1/public_html/pages/addressbook.php on line 4
+[04-Nov-2014 23:50:26 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[06-Nov-2014 23:47:17 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[07-Nov-2014 09:12:03 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[08-Nov-2014 07:10:23 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[08-Nov-2014 16:17:11 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[08-Nov-2014 16:29:13 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[08-Nov-2014 19:46:50 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[08-Nov-2014 21:37:10 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[09-Nov-2014 04:00:03 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[09-Nov-2014 04:44:12 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[09-Nov-2014 09:39:43 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[09-Nov-2014 12:54:48 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[10-Nov-2014 07:02:22 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[10-Nov-2014 17:33:22 Asia/Kolkata] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to MySQL server on '64.37.52.62' (4) in /home/njavall1/public_html/pages/connectiontest.php on line 9
+[10-Nov-2014 08:37:50 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[10-Nov-2014 19:07:51 Asia/Kolkata] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/njavall1/public_html/pages/contactus.php on line 4
+[10-Nov-2014 11:57:49 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[10-Nov-2014 12:04:41 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[10-Nov-2014 12:06:50 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[10-Nov-2014 15:32:09 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[10-Nov-2014 23:29:57 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[10-Nov-2014 23:30:12 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[11-Nov-2014 04:37:14 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[11-Nov-2014 04:37:15 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[11-Nov-2014 04:37:27 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[11-Nov-2014 04:37:30 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[11-Nov-2014 04:37:36 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[11-Nov-2014 08:08:47 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[11-Nov-2014 08:09:00 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[11-Nov-2014 08:10:01 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[11-Nov-2014 10:49:56 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[11-Nov-2014 12:09:32 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[11-Nov-2014 15:03:27 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[12-Nov-2014 01:31:11 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[12-Nov-2014 08:20:25 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[12-Nov-2014 08:20:46 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[12-Nov-2014 08:53:32 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[12-Nov-2014 19:08:02 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[12-Nov-2014 19:08:09 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[13-Nov-2014 02:42:44 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[13-Nov-2014 03:50:30 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[13-Nov-2014 05:02:24 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[13-Nov-2014 05:59:50 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[13-Nov-2014 06:30:05 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[13-Nov-2014 11:11:03 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[14-Nov-2014 07:10:57 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[14-Nov-2014 21:46:25 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[14-Nov-2014 22:49:40 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[15-Nov-2014 01:18:03 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[16-Nov-2014 02:25:31 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[16-Nov-2014 06:39:31 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[17-Nov-2014 01:12:25 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[17-Nov-2014 01:12:47 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[17-Nov-2014 02:53:39 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[17-Nov-2014 11:22:21 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[17-Nov-2014 11:27:26 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[18-Nov-2014 04:41:06 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[18-Nov-2014 08:04:14 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[18-Nov-2014 08:04:51 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[18-Nov-2014 08:19:25 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[18-Nov-2014 15:11:03 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[19-Nov-2014 01:58:10 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[19-Nov-2014 01:58:13 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[19-Nov-2014 09:37:51 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[19-Nov-2014 09:39:32 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[19-Nov-2014 09:40:43 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[20-Nov-2014 15:51:25 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[21-Nov-2014 17:13:37 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[22-Nov-2014 02:39:39 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[22-Nov-2014 06:07:35 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[22-Nov-2014 06:16:52 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[22-Nov-2014 06:21:46 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[22-Nov-2014 06:27:04 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[22-Nov-2014 06:27:10 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[22-Nov-2014 06:27:24 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[22-Nov-2014 06:31:01 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[23-Nov-2014 03:36:56 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[24-Nov-2014 13:27:58 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[24-Nov-2014 18:49:43 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[25-Nov-2014 01:03:24 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[25-Nov-2014 08:34:08 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[25-Nov-2014 10:39:07 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[25-Nov-2014 15:57:06 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[26-Nov-2014 04:10:56 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[26-Nov-2014 14:40:56 Asia/Kolkata] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/njavall1/public_html/pages/addressbook.php on line 4
+[26-Nov-2014 06:14:43 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[26-Nov-2014 17:49:26 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[26-Nov-2014 17:49:43 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[26-Nov-2014 17:50:08 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[26-Nov-2014 17:50:19 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[27-Nov-2014 03:20:00 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[27-Nov-2014 03:20:01 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[27-Nov-2014 03:20:04 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[27-Nov-2014 03:20:09 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[27-Nov-2014 03:20:16 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[27-Nov-2014 07:53:54 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[28-Nov-2014 04:04:35 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[28-Nov-2014 05:10:51 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[28-Nov-2014 10:42:39 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[28-Nov-2014 21:12:39 Asia/Kolkata] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Headers and client library minor version mismatch. Headers:50535 Library:50621 in /home/njavall1/public_html/pages/addressbook.php on line 4
+[28-Nov-2014 21:12:39 Asia/Kolkata] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/njavall1/public_html/pages/addressbook.php on line 4
+[28-Nov-2014 10:42:39 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[28-Nov-2014 21:12:40 Asia/Kolkata] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Headers and client library minor version mismatch. Headers:50535 Library:50621 in /home/njavall1/public_html/pages/addressbook.php on line 4
+[28-Nov-2014 21:12:40 Asia/Kolkata] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/njavall1/public_html/pages/addressbook.php on line 4
+[29-Nov-2014 04:50:56 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[29-Nov-2014 15:20:57 Asia/Kolkata] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Headers and client library minor version mismatch. Headers:50621 Library:50540 in /home/njavall1/public_html/pages/addressbook.php on line 4
+[29-Nov-2014 05:58:19 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[29-Nov-2014 16:28:19 Asia/Kolkata] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Headers and client library minor version mismatch. Headers:50621 Library:50540 in /home/njavall1/public_html/pages/addressbook.php on line 4
+[29-Nov-2014 05:58:21 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[29-Nov-2014 16:28:21 Asia/Kolkata] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Headers and client library minor version mismatch. Headers:50621 Library:50540 in /home/njavall1/public_html/pages/addressbook.php on line 4
+[29-Nov-2014 05:58:22 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[29-Nov-2014 16:28:22 Asia/Kolkata] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Headers and client library minor version mismatch. Headers:50621 Library:50540 in /home/njavall1/public_html/pages/addressbook.php on line 4
+[29-Nov-2014 06:16:05 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[29-Nov-2014 16:46:05 Asia/Kolkata] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Headers and client library minor version mismatch. Headers:50621 Library:50540 in /home/njavall1/public_html/pages/addressbook.php on line 4
+[29-Nov-2014 06:16:08 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[29-Nov-2014 16:46:08 Asia/Kolkata] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Headers and client library minor version mismatch. Headers:50621 Library:50540 in /home/njavall1/public_html/pages/neweventtodb.php on line 4
+[29-Nov-2014 06:16:11 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[29-Nov-2014 16:46:11 Asia/Kolkata] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Headers and client library minor version mismatch. Headers:50621 Library:50540 in /home/njavall1/public_html/pages/addressbook.php on line 4
+[29-Nov-2014 06:16:12 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[29-Nov-2014 16:46:12 Asia/Kolkata] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Headers and client library minor version mismatch. Headers:50621 Library:50540 in /home/njavall1/public_html/pages/addressbook.php on line 4
+[29-Nov-2014 06:16:14 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[29-Nov-2014 16:46:14 Asia/Kolkata] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Headers and client library minor version mismatch. Headers:50621 Library:50540 in /home/njavall1/public_html/pages/neweventtodb.php on line 4
+[29-Nov-2014 06:16:16 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[29-Nov-2014 16:46:16 Asia/Kolkata] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Headers and client library minor version mismatch. Headers:50621 Library:50540 in /home/njavall1/public_html/pages/neweventtodb.php on line 4
+[29-Nov-2014 06:16:29 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[29-Nov-2014 16:46:29 Asia/Kolkata] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Headers and client library minor version mismatch. Headers:50621 Library:50540 in /home/njavall1/public_html/pages/addressbook.php on line 4
+[29-Nov-2014 06:17:29 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[29-Nov-2014 16:47:29 Asia/Kolkata] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Headers and client library minor version mismatch. Headers:50621 Library:50540 in /home/njavall1/public_html/pages/addressbook.php on line 4
+[29-Nov-2014 06:17:31 America/New_York] PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+[29-Nov-2014 16:47:31 Asia/Kolkata] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Headers and client library minor version mismatch. Headers:50621 Library:50540 in /home/njavall1/public_html/pages/addressbook.php on line 4

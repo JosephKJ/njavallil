@@ -1,0 +1,45 @@
+<div style="position:absolute; left:1080px;top:151px; width:265px; height:420px; z-index: 1; background-image:url('images/notice.png');background-repeat:repeat-y;" id="layer1" >
+				<div class="notice">Notice board</div>
+               	
+                <marquee style="position: relative;" height="79px;" behavior="scroll" align="center" direction="up" scrollamount="2" scrolldelay="5"  onmouseover="this.stop()" onmouseout="this.start()"><br>
+                <?php
+				$result = mysql_query("SELECT * FROM notice where visible=1 order by(slno) desc ");
+				while($row=mysql_fetch_array($result)){
+					
+					echo('				<ul>
+					<li class="noticeentry">'.$row['content'].'</li>
+				</ul>
+				<!--<hr class="divider"/>-->');
+			
+				}
+		 		?>
+                </marquee>
+                <div style="position:absolute; top:120px; left:20px; ">
+                	<h3 align="center" style="font-family: 'Cabin Sketch', arial, serif; font-size:20px; padding-bottom:0px;">Obituary</h3>
+                    <span style="font-family: 'Varela', arial, serif; font-size:13px; text-align:justify;" >
+                    	<strong>James Kurian</strong>(Jameskutty), 57, of Njavallil Puthenpurayil, Karoor, passed away on March 16,2012. The funeral service will be conducted on March 17 at SH Church, Karoor. HE Mar Joseph Kallarangatt will officiate the funeral. 
+                    </span>
+                    
+                </div>
+                <div style="position:absolute; top:257px; left:20px; ">
+                	<h3 align="center" style="font-family: 'Cabin Sketch', arial, serif; font-size:20px; padding-bottom:0px;">Newspaper Supplement </h3>
+                    <span style="font-family: 'Varela', arial, serif; font-size:13px; text-align:justify;" >
+                    The below given is the link to the newspaper supplement that was published in 'Deepika' newspaper on 25/1/2012.
+                    <br />
+           			Link:<a href="pages/supplement.html" style="color:#045b7e;">&nbsp; <span style="font-size:12px;">Click here to view the supplement</span></a></span>
+                    <hr style="color: #045b7e;width:220px;"/>
+                </div>
+				<!--<div style="position:absolute; top:227px; left:20px; ">
+                	<h3 align="center" style="font-family: 'Tangerine', arial, serif; font-size:30px; padding-bottom:0px;">Njavallil Day 2012</h3><br />
+                    <span  style="font-family:Tahoma, Geneva, sans-serif; font-size:14px;">Date&nbsp;&nbsp;: 26-January-2012<br />
+                    Venue: Residence of Mr. Bastian Litto <br />
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Njavallil Koonthanam<br />
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Karimkunnam<br />
+           			Letter:<a href="pages/letter.html" style="color:#045b7e;">&nbsp; Click here to view the invitation</a></span>
+                    <hr style="color: #045b7e;width:220px;"/>
+                </div>-->
+				<span style="position:absolute; top:387px; left:40px; font-style:italic; font-size:130%;">Join us at:</span>
+				<span style="position:absolute; top:380px; left:130px;"><a target="_blank" href="http://www.facebook.com/home.php?sk=group_211051132268320&ap=1"><img width="45px" height="45px" src="images/facebook.png" /></a></span>
+				<span style="position:absolute; top:380px; left:190px;"><a target="_blank" href="http://www.orkut.co.in/Main#Community?cmm=48062814"><img width="45px" height="45px" src="images/orkut.png" /></a></span>
+			</div>
+		
