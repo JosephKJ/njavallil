@@ -280,22 +280,33 @@ font-family: 'Tangerine', arial, serif;
                     Click here to read through the April 2015 News Letter </span><br /><br />
                 </div></a>
             -->
-                 <div style="position:relative; padding-top:5px;">
+
+
+                <div style="position:relative; padding-top:5px;">
+                	<h3 align="center" style="font-family: 'Cabin Sketch', arial, serif; font-size:20px; padding-bottom:0px;">Membership Form</h3>
+                    <span style="font-family: 'Varela', arial, serif; font-size:13px; text-align:justify;" >
+                    Dear Family Members, If you have not taken formal membership with Kudumbayogam, you can fill up the following application form and submit it either via e-mail or ordinary post. You can reach us at mail@njavallil.com
+                    <br /><br />
+           			Link:<a href="files/application_form.pdf" style="color:#045b7e;">&nbsp; <span style="font-size:12px;">Download membership form.</span></a></span>
+                </div>
+
+                <div style="position:relative; padding-top:5px;">
                 	<h3 align="center" style="font-family: 'Cabin Sketch', arial, serif; font-size:18px; padding-left:2px;">20th Kudumbayogam-2017</h3>
                     <span style="font-family: 'Varela', arial, serif; font-size:13px; text-align:justify;" >
                     Browse through the 100+ photos taken during the event at the <a href="pages/photogallery.html">Photogallery</a>.
                 </div>
-                
-     
+
+                <!--
                 <div style="position:relative; padding-top:5px;">
                 	<h3 align="center" style="font-family: 'Cabin Sketch', arial, serif; font-size:20px; padding-bottom:0px;">Newspaper Supplement </h3>
                     <span style="font-family: 'Varela', arial, serif; font-size:13px; text-align:justify;" >
                     The below given is the link to the newspaper supplement published in 'Deepika' newspaper on 25/1/2014.
                     <br /><br />
            			Link:<a href="pages/supplement.html" style="color:#045b7e;">&nbsp; <span style="font-size:12px;">Click here to view the supplement</span></a></span>
-                   
                 </div>
-				<div style="position:relative; padding-top:102px;">
+                -->
+
+				<div style="position:relative; padding-top:57px;">
                 <br />	<hr style="color: #045b7e;width:220px;"/>
                 <div>
                 <span style="position:relative; font-style:italic; font-size:130%;">Join us at:</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
